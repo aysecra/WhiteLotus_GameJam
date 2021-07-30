@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb3665c3d0fa63d43958c55d4d6d72e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _root: {instanceID: 0}
+  - _webWithButterfly: {instanceID: 0}
+  - _brokenWeb: {fileID: 2003978634264439762, guid: 1ef844a1df2153640b2eb36aca116645, type: 3}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
